@@ -16,3 +16,5 @@
 ### ⚙️ GitHub Analytics 
 ![Masio GitHub stats](https://github-readme-stats.vercel.app/api?username=MasioCesar&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasioCesar&layout=compact)](https://github.com/MasioCesar/github-readme-stats)
+
+<a href="https://www.linkedin.com/in/m%C3%A1sio-c%C3%A9sar-27854821a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
